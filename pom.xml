@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>EXAMEN-PROG2</artifactId>
+    <artifactId>EXAMEN-POO</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -20,6 +20,12 @@
             <artifactId>junit-jupiter-api</artifactId>
             <version>5.13.4</version>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.6.0</version>
         </dependency>
     </dependencies>
 
